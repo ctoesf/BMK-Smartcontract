@@ -1,2 +1,1 @@
 # BMK-Smartcontract
-BMK-Smartcontract
